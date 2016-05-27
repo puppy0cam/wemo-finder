@@ -1,10 +1,10 @@
 # Wemo Device Finder for Node.js
 
-wemo device finder for node.js
+Hunts down all Belkin Devices on the network
 
 ## Supported Devices
 
-all devices that the android app supports.
+all Belkin devices that support UPnP
 
 ## Install
 
@@ -14,9 +14,9 @@ npm install
 ```
 
 ## Usage
-please note that console will be notified for every device it detects.
+please note that console will be notified for Belkin device found
 ```javascript
-var wemo-finder = new (require('wemo-finder'));
+var your_variable = require('wemo-finder')
  
 ```
 
@@ -24,12 +24,12 @@ var wemo-finder = new (require('wemo-finder'));
 
 device information for the first device found can be found under:
 ```javascript
-devices[0]
+your_variable._devices[0]
 ```
 
 ## Contributing
 
-Contributions are very welcome!
+Contributing to the code is very welcome and will help for future versions
 
 ## License
 

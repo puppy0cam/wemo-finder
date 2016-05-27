@@ -1,2 +1,1 @@
-finder = require('./wemo-finder');
-finder();
+finder = require('wemo-finder');
