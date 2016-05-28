@@ -1,6 +1,6 @@
 {
   "name": "wemo-finder",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Javascript WeMo finder",
   "main": "index.js",
   "directories": {
@@ -20,7 +20,7 @@
     "type": "git",
     "url": "git://github.com/puppy0cam/wemo-finder.git"
   },
-  "author": "Cameron Hawkins",
+  "author": "Cameron",
   "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/puppy0cam/wemo-finder/issues"
