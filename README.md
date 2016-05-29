@@ -8,16 +8,15 @@ all Belkin devices that support UPnP
 
 ## Install
 
-open a command line in the repository and run:
+open a command line and run:
 ```bash
-npm install
+npm install wemo-finder
 ```
 
 ## Usage
 please note that console will be notified for Belkin device found
 ```javascript
-var your_variable = require('wemo-finder')
- 
+var your_variable = require('wemo-finder');
 ```
 
 ## API
