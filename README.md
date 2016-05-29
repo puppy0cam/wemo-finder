@@ -4,7 +4,7 @@ Hunts down all Belkin Devices on the network
 
 ## Supported Devices
 
-all Belkin devices that support UPnP
+all Belkin devices that support UPnP (urn:Belkin:device:controllee:1 is a UPnP urn used by most wemo devices)
 
 ## Install
 
@@ -17,6 +17,7 @@ npm install wemo-finder
 please note that console will be notified for Belkin device found
 ```javascript
 var your_variable = require('wemo-finder');
+new your_variable();
 ```
 
 ## API
