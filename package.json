@@ -1,6 +1,6 @@
 {
   "name": "wemo-finder",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Javascript WeMo finder",
   "main": "index.js",
   "directories": {
@@ -43,5 +43,5 @@
     "mocha": "~2.3.3",
     "must": "~0.12.0"
   },
-  "tonicExample": "var wemo-finder = require('wemo-finder');"
+  "tonicExample": "var wemo_finder = require('wemo-finder');"
 }
